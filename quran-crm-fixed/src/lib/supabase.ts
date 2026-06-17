@@ -23,6 +23,9 @@ export type Platform =
   | 'YouTube'
   | 'TikTok'
   | 'WhatsApp'
+  | 'Google'
+  | 'SEO'
+  | 'manual'
   | 'Other'
 
 export interface User {
